@@ -6,3 +6,4 @@
 <p>You can also find a <a href="https://liquify.design/interactive-shopify-fee-calculator-calculate-shopify-pricing/">Shopify fee calculator here</a> and we've done a detailed <a href="https://liquify.design/shopify-plans-compared-ultimate-comparison-shopify-pricing-plans/">Shopify Plan Comparison</a> here.</p>
 
 
+<p>We also recently worked in partnership to offer <a href="https://shopped.email/" target="_blank" title="Shopify email hosting">Shopify email hosting</a>. A dedicated Shopify email hosting service.</p>
